@@ -1,0 +1,166 @@
+region	Africa	-8.78319500 	34.50852200 
+region	Asia	34.04786300 	100.61965200 
+region	Europe	54.52596300 	15.25511900 
+region	North America	51.00000020 	-109.00000000 
+region	South America	-21.00021790 	-61.00065650
+region	Oceania	-20.077651	155.357369
+region	Antarctica	-74.4021625984244	40.78125000000001
+country	Antarctica	-74.4021625984244	40.78125000000001
+country	Albania	41.15333200 	20.16833100 
+country	Austria	47.51623200 	14.55007200 
+country	Belgium	50.64028090 	4.66671450 
+country	Bulgaria	42.60739750 	25.48566170 
+country	Croatia	45.56434420 	17.01189540 
+country	Czech Republic	49.81670030 	15.47495440 
+country	Denmark	55.67024900 	10.33332830 
+country	Estonia	58.75237780 	25.33190780 
+country	Finland	63.24677770 	25.92091640 
+country	France	46.60335400 	1.88833350 
+country	Georgia	41.68097070 	44.02873820 
+country	Germany	51.08341960 	10.42344690 
+country	Greece	38.99536830 	21.98771320 
+country	Hungary	47.18175850 	19.50609370 
+country	Ireland	52.86519600 	-7.97945990 
+country	Italy	42.63842610 	12.67429700 
+country	Kosovo	42.58695780 	20.90212310 
+country	Latvia	56.84064940 	24.75376450 
+country	Lithuania	55.35000030 	23.74999970 
+country	Luxembourg	49.81586830 	6.12967510 
+country	Macedonia	41.61712140 	21.71683870 
+country	Netherlands	52.22886890 	5.32145030 
+country	Norway	60.50002090 	9.09997150 
+country	Poland	52.21593300 	19.13442200 
+country	Romania	45.98521290 	24.68592250 
+country	Russian Federation	59.88893690 	48.51562500 
+country	Slovakia	48.74115220 	19.45286460 
+country	Slovenia	45.81331130 	14.48083690 
+country	Spain	39.32606850 	-4.83797910 
+country	Sweden	59.67497120 	14.52085840 
+country	Switzerland	46.79856240 	8.23197360 
+country	Ukraine	49.48719680 	31.27183210 
+country	United Kingdom	54.70235450 	-3.27657530 
+country	BurkinaFaso	12.07530830 	-1.68803140 
+country	Cameroon	4.61255220 	13.15358110 
+country	Congo	-2.98143440 	23.82226360 
+country	CotedIvoire	7.98973710 	-5.56794580 
+country	Egypt	26.25404930 	29.26754690 
+country	Ghana	8.03002840 	-1.08002710 
+country	Niger	17.73562140 	9.32384320 
+country	Nigeria	9.60003590 	7.99997210 
+country	Senegal	14.47506070 	-14.45296120 
+country	SouthAfrica	-28.81662360 	24.99163900 
+country	Togo	8.78002650 	1.01997650 
+country	Uganda	1.53335540 	32.21665780 
+country	Zimbabwe	-18.45549630 	29.74684140 
+country	Canada	61.06669220 	-107.99170700 
+country	Dominican Republic	19.09740310 	-70.30280260 
+country	Mexico	23.55355700 	-100.44588200 
+country	United States	39.78373040 	-100.44588200 
+country	Peru	-6.86996970 	-75.04585150 
+country	Guatemala	15.68710070 	-90.12265453 
+country	Chile	-31.76133650 	-71.31876970 
+country	Bangladesh	24.47692880 	90.29344130 
+country	Bhutan	27.54951100 	90.51192730 
+country	Cambodia	13.50663940 	104.86942300 
+country	China	35.00007400 	104.99992700 
+country	Hong Kong	22.35062700 	114.18491610 
+country	India	22.35111480 	78.66774280 
+country	Indonesia	-2.48338260 	117.89028530 
+country	Iran	32.64753140 	54.56435160 
+country	Iraq	33.09557930 	44.17497750 
+country	Israel	31.53131130 	34.86676540 
+country	Japan	36.57484410 	139.23941790 
+country	Kazakhstan	47.22860860 	65.20931970 
+country	South Korea	36.63839200 	127.69611880 
+country	Laos	20.01711090 	103.37825300 
+country	Lebanon	33.87506290 	35.84340900 
+country	Monglia	46.82503880 	103.84997360 
+country	Myanmar	17.17504950 	95.99996520 
+country	Pakistan	30.33084010 	71.24749900 
+country	SaudiArabia	25.62426180 	42.35283280 
+country	Taiwan	23.97393740 	120.98201790 
+country	Vietnam	13.29040270 	108.42651130 
+country	Australia	-26.215624	133.990043
+country	Argentina	-34.603722	-58.381592
+division	Wisconsin	44.5	-89.5
+division	West Virginia	39	-80.5
+division	Vermont	44	-72.6999
+division	Texas	31	-100
+division	South Dakota	44.5	-100
+division	Rhode Island	41.742325	-71.742332
+division	Oregon	44	-120.5
+division	New York	43	-75
+division	New Hampshire	44	-71.5
+division	Nebraska	41.5	-100
+division	Kensas	38.5	-98
+division	Mississippi	33	-90
+division	Illinois	40	-89
+division	Delaware	39	-75.5
+division	Connecticut	41.59999	-72.69999
+division	Arkansas	34.79999	-92.19999
+division	Indiana	40.2735	-86.1269
+division	Missouri	38.57393	-92.60376
+division	Florida	27.9944	-81.76025
+division	Nevada	39.876019	-117.2241
+division	Maine	45.36758	-68.97216
+division	Michigan	44.182205	-84.506836
+division	Georgia	33.247875	-83.44116
+division	Hawaii	19.741755	-155.8444
+division	Alaska	66.1605	-153.36914
+division	Tennessee	35.86011	-86.66015
+division	Virginia	37.92686	-72024902
+division	New Jersey	39.83385	-74.87182
+division	Kentucky	37.83933	-84.27
+division	North Dakota	47.650589	-100.43701
+division	Minnesota	46.39241	-94.63623
+division	Oklahoma	36.08462	-96.92138
+division	Montana	46.96526	-109.53369
+division	Washington	47.751076	-120.740135
+division	Utah	39.41922	-111.95068
+division	Colorado	39.113014	-105.35888
+division	Ohio	40.36747	-82.99621
+division	Albama	32.31823	-86.90229
+division	Iowa	42.03297	-93.58154
+division	New Mexico	34.30714	-106.01806
+division	South Carolina	33.83608	-81.16372
+division	Pennsylvania	41.20332	-77.194527
+division	Arizona	34.048927	-111.093735
+division	Maryland	39.04575	-76.64127
+division	Massachusetts	42.40721	-71.38243
+division	Idaho	44.068203	-114.742043
+division	Wyoming	43.07597	-107.290283
+division	Louisiana	30.39183	-92.3291
+division	California	36.77825	-119.4179
+division	North Carolina	35.78216	-80.79345
+division	Xinjiang	44.402393	86.154785
+division	Tibet	31.129375	89.078469
+division	Qinghai	35.483330	96.252586
+division	Gansu	36.527847	103.827652
+division	Sichuan	30.263803	102.805473
+division	Yunnan	24.475285	101.343109
+division	Inner Mongolia	41.575389	112.385036
+division	Ningxia	37.161411	105.966262
+division	Shaanxi	35.642490	108.472214
+division	Chongquing	29.566919	106.593040
+division	Guizhou	26.939581	106.559433
+division	Guangxi	22.816668	108.316666
+division	Shanxi	37.661190	112.389977
+division	Henan	34.290428	113.382355
+division	Hubei	30.596069	114.297691
+division	Hunan	27.625299	111.856857
+division	Guangdong	22.869940	113.419724
+division	Hainan	18.221	109.686
+division	Hebei	38.042805	114.514893
+division	Beijing	39.9075	116.39723
+division	Tianjin	39.14222	117.17667
+division	Shandong	19.566395	109.949684
+division	Anhui	32.026379	117.252747
+division	Jiangxi	27.285971	116.016090
+division	Jiangsu	33.140171	119.788925
+division	Shanghai	31.22222	121.45806
+division	Zheijang	29.166130	120.055443
+division	Fuijan	26.074030	117.974747
+division	Liaoning	41.943653	122.529037
+division	Jilin	43.851921	126.548103
+country	Palestine	31.898043	35.204269
+division	Heilongjiang	47.121647	128.738235
